@@ -13,7 +13,7 @@ This phase will largely consist of my setting up the foundations for this projec
 ### Phase 1: Mechanical Design
 This stage considers much of the content covered in my degree. This phase is concerned with everything from conceptual to detailed design for thhe mechanical and aeronautical parts of this project. I will consider some electrical/electronic components, but without learning electronic engineering, I cannot go too into detail at this stage.
 1. Conceptual Design
-2. Prem#liminary Design
+2. Premliminary Design
 3. Detailed Design
 4. Prototyping - building scale models of the aircraft to assess whether the design needs to be tweaked before manufacture.
 
